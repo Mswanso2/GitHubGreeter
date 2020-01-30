@@ -5,7 +5,7 @@
 public class GitHubGreeter {
 
   // Write the welcome method here
-
+// test
   // Write the wishes method here
 
 }
